@@ -57,3 +57,21 @@
 
 <div align="center">
 </div>
+
+<br><br>
+
+## 미리보기
+> 일기 피드 & 게시판
+<img src="https://user-images.githubusercontent.com/65491937/206394721-e714d74b-d5ad-4660-a15a-e16c6b1f9ee7.png"  width="400" height="200" align="left">
+<img src="https://user-images.githubusercontent.com/65491937/206394760-3afca9e1-6d43-4a87-9d4d-c3b8f70c4f4a.png"  width="400" height="200" align="left">
+<br clear="left"/><br>
+
+> 병원 예약(일반회원)
+<img src="https://user-images.githubusercontent.com/65491937/206394750-3c0862d4-a6e3-4a50-ad5c-5a4639b27c72.png"  width="400" height="200" align="left">
+<img src="https://user-images.githubusercontent.com/65491937/206394752-355d75ab-8454-44d2-8ddc-d95bb7dba0af.png"  width="300" height="320" align="left">
+<br clear="left"/><br>
+
+> 병원 관리
+<img src="https://user-images.githubusercontent.com/65491937/206394767-054c3462-b2b1-46bc-b340-1ffa1f87018d.png"  width="400" height="250" align="left">
+<img src="https://user-images.githubusercontent.com/65491937/206394754-a4c258e4-1456-40ed-889f-eaeae41fd55c.png"  width="400" height="250" align="left">
+<br clear="left"/>
