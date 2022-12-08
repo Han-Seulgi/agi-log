@@ -23,38 +23,22 @@
 
 ## 기술 스택 
 
-> 언어
+#### 사용 언어
+`Java` `Javascript` `HTML/CSS` `XML`
+#### 프레임워크
+`Spring Framework`
+#### API & Library
+`Library:` `jQuery` `Gson (JSON)` `Smart Editor2.0` `Full Calnedar` `My Batis` `HikariCP`
 
-<div align="center">
-</div>
+`API:` `네이버 로그인` `카카오 로그인` `카카오 지도` `카카오 우편번호` `카페24`
+#### 사용 도구
+` IDE:` `Eclipse` `VSCode`
 
-> 프론트
+` Server:` `Apache Tomcat 9.0`
 
-<div align="center">
-</div>
+` DBMS:` `Oracle`
 
-> 백
-
-<div align="center">
-</div>
-
-> 라이브러리
-
-<div align="center">
-</div>
-
-> 프레임워크
-
-<div align="center">
-</div>
-
-> API
-
-<div align="center">
-</div>
-
-> ETC
-
+` ETC:` `Power Point` `Excel` `Kakao Oven`
 <div align="center">
 </div>
 
