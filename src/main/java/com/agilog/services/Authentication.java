@@ -137,10 +137,10 @@ public class Authentication implements ServiceRule {
 			else 
 				ab.setSuPhone(this.enc.aesEncode(ab.getSuPhone(), ab.getSuCode()));
 			
-			if(ab.getSuCode().length()>10)
+			/*if(ab.getSuCode().length()>10)
 				ab.setSuAddress(this.enc.aesEncode(ab.getSuAddress(), ab.getSuCode().substring(0, 10)));
 			else 
-				ab.setSuAddress(this.enc.aesEncode(ab.getSuAddress(), ab.getSuCode()));
+				ab.setSuAddress(this.enc.aesEncode(ab.getSuAddress(), ab.getSuCode()));*/
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
