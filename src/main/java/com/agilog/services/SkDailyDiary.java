@@ -79,7 +79,7 @@ public class SkDailyDiary implements ServiceRule {
 						}
 					}
 				} else { // 1개 일때 !true=>좋아요 누른적 있음 => 좋아요 삭제
-					if (this.convertToBoolean(this.session.delete("delDdLike", ddb))) {
+					if (this.convertToBoolean(this.session.delete("delMyDdLike", ddb))) {
 						// 현재 유저의 좋아요 여부 저장
 						ddb.setLike(false);
 						// 해당일기 전체 좋아요 수 조회
