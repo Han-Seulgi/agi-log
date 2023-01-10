@@ -146,6 +146,11 @@
 	<update id="updDdLike" parameterType="com.agilog.beans.DailyDiaryBean" >
 		UPDATE DD SET DD_LIKE = #{likes} WHERE DD_CODE = #{ddCode} AND DD_SUCODE = #{ddSuCode} AND DD_DATE = TO_DATE(#{ddDate},'YYYYMMDDHH24MISS')
 	</update>
+	<!-- 해당감성일기 좋아요 내역 삭제 -->
+    	<delete id="delMyDdLike" parameterType="com.agilog.beans.DailyDiaryBean" >
+        	DELETE FROM DL WHERE DL_DDCODE = #{ddCode} AND DL_DDSUCODE = #{ddSuCode} AND DL_DDDATE = TO_DATE(#{ddDate},'YYYYMMDDHH24MISS') AND DL_SUCODE = #{suCode}
+    	</delete>
+
 	
 	<!-- 자유게시판 좋아요 -->
 	<!-- 해당유저 해당게시글 좋아요 내역 확인 -->
